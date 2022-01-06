@@ -1,0 +1,87 @@
+body{
+                  font-family: 'Poppins', sans-serif;
+                  Font size: 15px
+                  
+}               
+.flex{
+                  display: flex;
+                  
+}
+.rec{             font-family: 'Yeseva One', cursive;
+                  font-style: normal;
+                  font-weight: bolder;
+                  border-left: 5px solid;
+                  border-color: rgb(255, 155, 5);
+                  padding-left: 5px;
+                  border-radius: 5px;
+}
+.font1{
+                  color: orangered;
+
+}
+.half-siz{
+                  width: 50%;
+                  padding-left: 5%;
+}
+.half-siz img{
+                  width: 70%;
+}
+.explor{
+ 
+                  text-decoration: none;
+                  background: #FF5959;
+                  padding: 10px 20px;
+                  color: white;
+                  font-weight: 400;
+                  border-radius: 5px;
+}
+.mission-22text{
+                  color: orange;
+                  text-align: center;
+                  font-size: 55px;
+}
+#MMXXII{
+                  color: rgb(0, 0, 0);
+
+}
+#bg-makup1{
+                  background: rgba(79, 157, 166, 0.1);
+                  border-radius: 26px;
+                  padding: 12px 12px ;
+                  margin-left: 15px;
+                  
+}
+#bg-makup2{
+                  background: rgba(226, 224, 109, 0.1);
+                  border-radius: 26px;
+                  padding: 12px 12px ;
+                  margin-left: 15px;
+}
+#bg-makup3{
+                  background: rgba(79, 157, 166, 0.1);
+                  border-radius: 26px;
+                  padding: 12px 12px ;
+                  margin-left: 15px;
+}
+.makup{
+                  margin-left: 350PX;
+}
+#develop{
+                  padding-top: 250px;
+                  font-size: 20px;
+}
+#photo-siz{
+                  width: 40%;
+                  height: 40%;
+}
+#footer{
+                  color: orange;
+}
+footer{
+                  color: rgb(247, 247, 247);
+                  font-family: 'Lobster Two', cursive;
+                  text-align: center;
+                  background: rgb(0, 0, 0);
+                 font-size: 20px;
+                 padding-top:10px;              
+}
